@@ -1,0 +1,30 @@
+[
+  {
+    "hour": 0,
+    "minute": 15,
+    "days": [
+      4
+    ],
+    "sound": "custom1",
+    "repeat_interval": 1,
+    "message": "Время вставать!",
+    "active": true
+  },
+  {
+    "hour": 0,
+    "minute": 10,
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "sound": "custom1",
+    "repeat_interval": 0,
+    "message": "Время вставать!",
+    "active": false
+  }
+]
